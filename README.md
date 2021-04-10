@@ -1,2 +1,2 @@
-# Alan-hds.github.io
-Churrascômetro
+# churrascometro
+Projeto desenvolvido no curso do ProgamadorBR
