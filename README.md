@@ -2,6 +2,7 @@
 Projeto desenvolvido no curso do ProgamadorBR
 # 📋 Sobre o Projeto
 ![Resultado final do projeto](https://github.com/Alan-hds/Alan-hds.github.io/blob/main/projeto%20churracometro.png)
+
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
 Carne - 400gr por pessoa + de 6horas - 650gr
