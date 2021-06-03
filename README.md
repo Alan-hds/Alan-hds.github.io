@@ -1,6 +1,5 @@
 # Churrascômetro
 Projeto desenvolvido no curso do ProgamadorBR
-![]()https://github.com/Alan-hds/Alan-hds.github.io/blob/main/projeto%20churracometro.png
 # 📋 Sobre o Projeto
 
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
